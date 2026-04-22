@@ -9,7 +9,7 @@
 ### 0.2.1 - 
 
 - Documentation changes required for NuGet.
-- 
+
 ### 0.2.0 - 
 
 - **Important:** `NormalEquation` now defines a discriminated union with a case for each equation instead of defining the functions themselves.
