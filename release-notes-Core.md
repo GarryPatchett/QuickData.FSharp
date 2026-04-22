@@ -9,7 +9,7 @@
 ### 0.2.1 - 
 
 - Documentation changes required for NuGet.
-- 
+
 ### 0.2.0 - 
 
 - Added new Error type for use with identity value functions in QuickData.Numbers.FSharp (and future expansion).
