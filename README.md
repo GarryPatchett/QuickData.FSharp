@@ -4,7 +4,7 @@ Thi is the public repository for the QuickData.FSharp packages:
 - QuickData.Core.FSharp
 - QuickData.Numbers.FSharp
 
-This currently only includes images for use in the README files.
+This currently only includes images for use in the README files and the release notes for each package.
 
 Feel free to add issues for, make suggestions about, or ask questions regarding, the QuickData...FSharp packages here. 
 
