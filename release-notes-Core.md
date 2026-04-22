@@ -2,9 +2,14 @@
 
 ## Overview
 
+- [0.2.1](#021--) - Documentation changes.
 - [0.2.0](#020--) - Added new Error type, some new helper functions, new GitHub repo, and some active patterns.
 - [0.1.0](#010--) - Initial release.
 
+### 0.2.1 - 
+
+- Documentation changes required for NuGet.
+- 
 ### 0.2.0 - 
 
 - Added new Error type for use with identity value functions in QuickData.Numbers.FSharp (and future expansion).
