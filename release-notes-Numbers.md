@@ -1,10 +1,20 @@
 ## QuickData.Numbers.FSharp Release Notes
 
+> **Note:** Any changes to the README or Intellisense documentation will be made
+as necessary with new releases, but they will not normally be noted in these release
+notes unless those changes are significant.
+
 ## Overview
 
+- [0.3.0](#030--) - Added new function to normalise floats.
 - [0.2.1](#021--) - Documentation changes.
 - [0.2.0](#020--) - New gradient function and types, NormalEquation changes, better README, new GitHub repo, and addition of identity values for some DUs.
 - [0.1.0](#010--) - Initial release.
+
+### 0.3.0 - 
+
+- Changed `Normal.Seq` **module**:
+    - added new `fromFloatsSpread` function to create a new sequence of normals from a sequence of floats via a `NormalisationRange` (provided by QuickData.Core.FSharp).
 
 ### 0.2.1 - 
 
