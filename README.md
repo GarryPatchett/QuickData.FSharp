@@ -19,7 +19,7 @@ This QuickData.FSharp project contains five packages:
 | Package                        | What It's For | Documentation | Package |
 | ------------------------------ | ------------- | ------------- | ------- |
 | **QuickData.Core.FSharp**      | Contains shared types and functionalities | [Core docs](docs/QuickData.Core.FSharp/000-Overview.md "Core package documentation") | [Core package](https://www.nuget.org/packages/QuickData.Core.FSharp "Core package") |
-| **QuickData.Digits.FSharp**  | Create sequences of Digit | [Digits docs](docs/QuickData.Core.FSharp/000-Overview.md "Digits package documentation") | [Digits package](https://www.nuget.org/packages/QuickData.Digits.FSharp "Digits package") |
+| **QuickData.Digits.FSharp**  | Create sequences of Digit | [Digits docs](docs/QuickData.Digits.FSharp/000-Overview.md "Digits package documentation") | [Digits package](https://www.nuget.org/packages/QuickData.Digits.FSharp "Digits package") |
 | **QuickData.Numbers.FSharp**  | Create sequences of numbers | [Numbers docs](docs/QuickData.Numbers.FSharp/000-Overview.md "Numbers package documentation") | [Numbers package](https://www.nuget.org/packages/QuickData.Numbers.FSharp "Numbers package") |
 | **QuickData.Characters.FSharp**    | Create sequences of characters | [Characters docs](docs/QuickData.Characters.FSharp/000-Overview.md "Characters package documentation") | [Characters package](https://www.nuget.org/packages/QuickData.Characters.FSharp "Characters package") |
 | **QuickData.Words.FSharp**    | Create sequences of words/sentences | [Words docs](docs/QuickData.Words.FSharp/000-Overview.md "Words package documentation") | [Words package](https://www.nuget.org/packages/QuickData.Words.FSharp "Words package") |
