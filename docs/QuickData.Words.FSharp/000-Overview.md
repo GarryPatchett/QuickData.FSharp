@@ -35,7 +35,7 @@ The types provided, with associated modules, are (in alphabetical order):
 | **[SentenceLengthRange](010-Ranges.md "The SentenceLengthRange module")**                 | The possible number of words for the generated sentences              |
 | **[Sentences](200-Sentences.md "The Sentences module")**                                  | Create sentences which are strings containing words **1*              |
 | **[WordLengthRange](010-Ranges.md "The WordLengthRange module")**                         | The possible number of lengths for the generated words                |
-| **[Words](100-Words.Seq.md "The Words module")**                                          | Create sequences of words from the internal dictionary                |
+| **[Words](100-Words.md "The Words module")**                                              | Create sequences of words from the internal dictionary                |
 
 - **1* : Words are separated by spaces, with a full stop (period) at the end.
 
