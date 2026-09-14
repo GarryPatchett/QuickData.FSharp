@@ -16,11 +16,18 @@ number across all of the packages in the project at any one time.
 
 ## Overview
 
+- [0.3.2](#032--) - Bug fixes.
 - [0.3.1](#031--) - New functionalities added and documentation moved.
 - [0.3.0](#030--) - New packages. Also added new types and other functions to existing packages.
 - [0.2.1](#021--) - Documentation changes.
 - [0.2.0](#020--) - Added new types, functions, new GitHub repo, and some active patterns.
 - [0.1.0](#010--) - Initial release.
+
+## 0.3.2 - 
+
+### Numbers Package
+
+- `HockeyStick` and `SkiSlope` equations were broken in 0.3.1 but are now fixed.
 
 ## 0.3.1 - 
 
