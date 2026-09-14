@@ -22,11 +22,11 @@ The cases are:
 
 | Case Name                     | Amount Of Noise                                                   | Amount **2* |
 | ----------------------------- | ----------------------------------------------------------------- | ----------- |
-| **Lowest**                    | The lowest amount of noise (very small amount)                    | +/- 0.035   |
+| **Lowest**                    | The lowest amount of noise (very small amount)                    | +/- 0.03    |
 | **Low**                       | A low amount of noise (not very much)                             | +/- 0.06    |
 | **Medium** **1*               | A decent amount of noise (sometimes quite a bit)                  | +/- 0.17    |
 | **High**                      | A high amount of noise (a decent amount)                          | +/- 0.48    |
-| **Highest**                   | The highest amount of noise (a lot)                               | +/- 0.74    |
+| **Highest**                   | The highest amount of noise (a lot)                               | +/- 0.95    |
 
 - **1* : The default case.
 - **2* : The approximate maximum/minimum amount that a value can vary.
